@@ -68,4 +68,4 @@ FILE "Step6_Track63.mp3" MP3
     INDEX 01 00:21:61
   TRACK 23 AUDIO
     TITLE "Step6_Track63_23"
-    INDEX 01 00:24:75
+    INDEX 01 00:25:00
